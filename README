@@ -1,4 +1,8 @@
 My awesome project
 ==================
 
-TODO: Write a proper README
+SETUP
+-----
+
+1. npm install
+2. npm start
